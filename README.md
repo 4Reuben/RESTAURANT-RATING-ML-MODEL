@@ -2,7 +2,9 @@
 
 🙋‍♂️ Author
 Reuben Thomas John
+
 Intern @ Cognifyz Technologies
+
 Project Duration: 4 Weeks
 
 # 🍽️ Restaurant Rating Prediction using Machine Learning

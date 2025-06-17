@@ -1,8 +1,11 @@
 # Restaurant-Rating-ML-Model
 
-# 🍽️ Restaurant Rating Prediction using Machine Learning
+🙋‍♂️ Author
+Reuben Thomas John
+Intern @ Cognifyz Technologies
+Project Duration: 4 Weeks
 
-[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/YOUR_COLAB_NOTEBOOK_LINK_HERE)
+# 🍽️ Restaurant Rating Prediction using Machine Learning
 
 This project uses machine learning techniques to predict the **aggregate rating** of restaurants based on features like location, cuisine, price range, votes, and delivery options. The dataset used is based on real-world restaurant information, and a Decision Tree Regression model was trained and evaluated for performance.
 
@@ -62,28 +65,14 @@ The Decision Tree model clearly outperformed linear regression for this non-line
 ### 1️⃣ Rating Distribution  
 Shows the overall spread of restaurant ratings.
 
-![Rating Distribution](images/rating_distribution.png)
-
----
-
 ### 2️⃣ Top 10 Feature Importances  
 Votes were the most influential feature by far.
-
-![Feature Importance](images/feature_importance.png)
-
----
 
 ### 3️⃣ Actual vs Predicted Ratings  
 A near-perfect alignment shows a well-fitted model.
 
-![Actual vs Predicted](images/actual_vs_predicted.png)
-
----
-
 ### 4️⃣ Residuals Plot  
 Most prediction errors are close to zero.
-
-![Residuals](images/residuals_plot.png)
 
 ---
 
@@ -97,10 +86,9 @@ Most prediction errors are close to zero.
 
 ## 💻 How to Use
 
-1. 🔗 Click the badge above to open the notebook in **Google Colab**
-2. 📂 Upload the dataset or mount your Google Drive
-3. ▶️ Run each cell step-by-step
-4. 📊 Analyze results and tweak parameters as needed
+1. 📂 Download or copy the file and dataset 
+2. ▶️ Run each cell step-by-step
+3. 📊 Analyze results and tweak parameters as needed
 
 ---
 

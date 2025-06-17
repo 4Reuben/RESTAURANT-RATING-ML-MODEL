@@ -7,7 +7,7 @@ Intern @ Cognifyz Technologies
 
 Project Duration: 4 Weeks
 
-# 🍽️ Restaurant Rating Prediction using Machine Learning
+# 🍽️ Restaurant Rating Prediction using Machine Learning - TASK - 1
 
 This project uses machine learning techniques to predict the **aggregate rating** of restaurants based on features like location, cuisine, price range, votes, and delivery options. The dataset used is based on real-world restaurant information, and a Decision Tree Regression model was trained and evaluated for performance.
 
